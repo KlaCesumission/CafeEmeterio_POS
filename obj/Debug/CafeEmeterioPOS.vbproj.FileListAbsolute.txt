@@ -1,0 +1,17 @@
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\bin\Debug\CafeEmeterioPOS.exe.config
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.frmLogin.resources
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.Resources.resources
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.vbproj.GenerateResource.Cache
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\bin\Debug\CafeEmeterioPOS.exe
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\bin\Debug\CafeEmeterioPOS.pdb
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\bin\Debug\CafeEmeterioPOS.xml
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.exe
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.xml
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.pdb
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.frmMain.resources
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.frmPOS.resources
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.vbprojResolveAssemblyReference.cache
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.frmReceipt.resources
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\RdlCompile.cache
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\RdlCompile.compiled
+D:\Klarisse\Personal\CafeEmeterioPOS\CafeEmeterioPOS\obj\Debug\CafeEmeterioPOS.frmReprint.resources
